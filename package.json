@@ -11,6 +11,7 @@
   "license": "MIT",
   "devDependencies": {
     "@types/node": "^20.12.7",
+    "assemblyscript": "^0.27.27",
     "ts-node": "^10.9.2",
     "typescript": "^5.4.5"
   }
